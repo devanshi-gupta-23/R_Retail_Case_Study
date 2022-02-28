@@ -10,5 +10,7 @@ Transactions of customers
 ## Prod_cat_info -
 Product information(category,sub category,...)
 
+# Summary:
+DataSet provided to us and were given a pdf that contains all the tasks that we have to perform.
 
 
